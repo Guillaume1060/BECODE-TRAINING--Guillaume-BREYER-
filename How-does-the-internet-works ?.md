@@ -11,4 +11,6 @@ Les informations sont transmimes par "paquet".
 Les IP adress et les routeurs permettent de cibler les bonnes directions.
 
 ##### C'est plus clair!
-![Love Coding](https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif)
+![Love Coding](https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif)  
+
+this theory file has been reviewed by Arianna Telesca
